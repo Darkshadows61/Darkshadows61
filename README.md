@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Pocket Brock](https://github.com/Darkshadows61/Pocket-Brock.git)
 
-- 🌱 I’m currently learning **React, Node, MongoDB, Unreal Engine**
+- 🌱 I’m currently learning **React, Unreal Engine, and C++**
 
 - 👨‍💻 All of my projects are available at [http:///www.thomasbisom.me](http:///www.thomasbisom.me)
 
-- 💬 Ask me about **HTML, CSS, JS**
+- 💬 Ask me about **HTML, CSS, JS, Node, MongoDB**
 
 - 📫 How to reach me **bisomt@gmail.com**
 
