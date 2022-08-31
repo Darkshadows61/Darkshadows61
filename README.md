@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas Bisom</h1>
-<h3 align="center">A passionate Software Engineer and Game Designer</h3>
+<h3 align="center">A passionate Software Engineer and Game Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkshadows61" alt="darkshadows61" /></a> </p>
 
