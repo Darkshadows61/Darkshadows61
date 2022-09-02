@@ -5,14 +5,14 @@
 
 <p align="left"> <a href="https://twitter.com/darkshadows61" target="blank"><img src="https://img.shields.io/twitter/follow/darkshadows61?logo=twitter&style=for-the-badge" alt="darkshadows61" /></a> </p>
 
-- 🔭 I’m currently working on [Pocket Brock](https://github.com/Darkshadows61/Pocket-Brock.git)
-  - Also a super secret NES game
+- 🔭 I’m currently working on [Fireworks Show Builder](https://github.com/Darkshadows61/ShowMeYourBooms.git
+  - Also a C# and Unity game
 
-- 🌱 I’m currently learning **React and C#**
+- 🌱 I’m currently learning **Unity and C#**
 
 - 👨‍💻 All of my projects are available at [http:///www.thomasbisom.me](http:///www.thomasbisom.me)
 
-- 💬 Ask me about **HTML, CSS, JS, Node, MongoDB**
+- 💬 Ask me about **HTML, CSS, JS, Node.js, MongoDB, C#, and Unity**
 
 - 📫 How to reach me **bisomt@gmail.com**
 
