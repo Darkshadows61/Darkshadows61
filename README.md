@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [Fireworks Show Builder](https://github.com/Darkshadows61/ShowMeYourBooms.git
   - Also a C# and Unity game
 
-- 🌱 I’m currently learning **Unity and C#**
+- 🌱 I’m currently learning **Unity C#, and C++**
 
 - 👨‍💻 All of my projects are available at [http:///www.thomasbisom.me](http:///www.thomasbisom.me)
 
