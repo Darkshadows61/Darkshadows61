@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas Bisom</h1>
 <h3 align="center">A passionate Software Engineer and Game Developer</h3>
 
-<--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkshadows61" alt="darkshadows61" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/darkshadows61" target="blank"><img src="https://img.shields.io/twitter/follow/darkshadows61?logo=twitter&style=for-the-badge" alt="darkshadows61" /></a> </p>-->
+<p align="left"> <a href="https://twitter.com/darkshadows61" target="blank"><img src="https://img.shields.io/twitter/follow/darkshadows61?logo=twitter&style=for-the-badge" alt="darkshadows61" /></a> </p>
 
 - 🔭 I’m currently working on [Fireworks Show Builder](https://github.com/Darkshadows61/ShowMeYourBooms.git
   - Also a C# and Unity game
