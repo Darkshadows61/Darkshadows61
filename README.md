@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/darkshadows61" target="blank"><img src="https://img.shields.io/twitter/follow/darkshadows61?logo=twitter&style=for-the-badge" alt="darkshadows61" /></a> </p>
 
-- 🔭 I’m currently working on Pocket Brock 2.0 and my first Sega Genesis game
+- 🔭 I’m currently working on YAEM and Pocket Brcok 2.1
 
-- 🌱 I’m currently learning **Web Design and C for Sega Genesis**
+- 🌱 I’m currently learning **C# and Unity for 2D game design**
 
 - 👨‍💻 All of my projects are available at [http:///www.thomasbisom.me](http:///www.thomasbisom.me)
 
-- 💬 Ask me about **C, HTML, CSS, JS, Node.js, and MongoDB**
+- 💬 Ask me about **C#, Unity, C++, HTML, CSS, JS, Node.js, and MongoDB**
 
 - 📫 How to reach me **bisomt@gmail.com**
 
