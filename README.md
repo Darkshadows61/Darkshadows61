@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/darkshadows61" target="blank"><img src="https://img.shields.io/twitter/follow/darkshadows61?logo=twitter&style=for-the-badge" alt="darkshadows61" /></a> </p>
 
-- 🔭 I’m currently working on YAEM and Pocket Brcok 2.1
+- 🔭 I’m currently working on YAEM and Pocket Brock 2.1
 
 - 🌱 I’m currently learning **C# and Unity for 2D game design**
 
